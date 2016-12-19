@@ -13,6 +13,7 @@ https://phaser.io/news/2016/12/phaser-es6-webpack
 
 https://phaser.io/news/2016/12/build-a-bear-adventures
 
+http://www.buildabear.com/play/content/build-a-bear-adventures.html
 
 
 ## Algorithms and Data Structures Animations  
