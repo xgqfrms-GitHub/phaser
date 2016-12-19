@@ -26,9 +26,23 @@ https://www.youtube.com/watch?v=z6qATR0VLnk
 
 https://medium.com/@cs50/  
 
-http://docs.cs50.net/2016/fall/syllabus/cs50.html  
 
 https://cs50.harvard.edu/  
 
+https://cs50.yale.edu/
+
+http://docs.cs50.net/2016/fall/syllabus/cs50.html  
+
 http://docs.cs50.net/2016/fall/syllabus/yale.html  
+
+
+## Machine Learning 
+
+https://elitedatascience.com/  
+https://elitedatascience.com/learn-machine-learning  
+
+https://medium.mybridge.co/  
+https://medium.mybridge.co/@Mybridge  
+
+
 
